@@ -1,0 +1,75 @@
+.menu-area {
+    direction: rtl;
+}
+.single-slider .container {
+    direction: rtl;
+}
+.s-slider-content p {
+    padding-right: 0px;
+}
+.service-details-two {
+    direction: rtl;
+}
+.services-box07 .sr-contner .icon {
+    margin-right: 0px;
+    margin-left: 20px;
+}
+.about-area {
+    direction: rtl;
+}
+.about-content2 li {
+    padding-right: 0px;
+    padding-left: 20px;
+}
+.cta-area {
+    direction: rtl;
+}
+.cta-area .text-right {
+    text-align: left;
+}
+.single-testimonial {
+    direction: rtl;
+}
+.footer-bg {
+    direction: rtl;
+}
+.f-contact .icon {
+    float: right;
+    margin-right: 0px;
+    margin-left: 15px;
+}
+.f-widget-title h2::before, 
+.footer-widget .widgettitle::before {
+    left: auto;
+    right: 0;
+}
+.shop-area {
+    direction: rtl;
+}
+.courses-content a.readmore {
+    text-align: left;
+}
+.project-detail {
+    direction: rtl;
+}
+.event {
+    direction: rtl;
+}
+.event-item .time span {
+    float: left;
+}
+.faq-btn {
+    text-align: right;
+}
+.blog-area {
+    direction: rtl;
+}
+.inner-blog {
+    direction: rtl;
+}
+
+@media (max-width: 991px) {
+    .logo {
+        float: left;
+    }
+}
