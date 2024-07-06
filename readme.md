@@ -19,7 +19,7 @@ The University Management System (UMS) is a comprehensive web-based application 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SohaibKhaliq/University-Management-S
+   git clone https://github.com/SohaibKhaliq/University-Management-System
    cd style-and-schedule
 2. **Install dependencies:**
    ```bash
